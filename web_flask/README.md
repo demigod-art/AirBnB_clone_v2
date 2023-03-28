@@ -1,1 +1,3 @@
-Air-BnB is a complete RESTful web application, integrating file and database (MySQL) storage in a back-end API with front-end interfacing in a clone of AirBnB. The front-end is designed using HTML5/CSS3 and is served using Python Flask. The application is configured on a distributed system - two web servers and one load balancer - with Nginx and HAProxy
+This was a sub-project within AirBnB in which I began working with Flask and Jinja2. In this project, I began integrating the back-end storage engine with the web static HTML/CSS pages written earlier.
+
+Files 0 - 6 were introductory tasks familiarizing myself with using Flask. Files 7 forward involved gradually putting together more and more complex Jinja templates based on the HBnB HTML pages.
